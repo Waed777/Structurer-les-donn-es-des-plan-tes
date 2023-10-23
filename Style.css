@@ -1,28 +1,28 @@
 /* Affichez le titre de niveau 1 en hotpink */
 h1 {
-    color: hotpink;
-  }
-  
-  /* Donnez au titre un border-bottom de 10px dotted de couleur purple */
-  h1 {
-    border-bottom: 10px dotted purple;
-  }
-  
-  /* Affichez le titre de niveau 2 en italique */
-  h2 {
-    font-style: italic;
-  }
-  
-  /* Colorez la ul des détails de contacts en background-color #eeeeee,
-     avec un border de 5px solid purple. Utilisez la propriété padding pour éloigner le contenu du bord. */
-  ul {
-    background-color: #eeeeee;
-    border: 5px solid purple;
-    padding: 10px; /* Vous pouvez ajuster la valeur en fonction de vos préférences. */
-  }
-  
-  /* Faites que les liens apparaissent en green lors d'un survol du curseur */
-  a:hover {
-    color: green;
-  }
+  color: hotpink;
+}
+
+/* Donnez au titre un border-bottom de 10px dotted de couleur purple */
+h1 {
+  border-bottom: 10px dotted purple;
+}
+
+/* Affichez le titre de niveau 2 en italique */
+h2 {
+  font-style: italic;
+}
+
+/* Colorez la ul des détails de contacts en background-color #eeeeee,
+   avec un border de 5px solid purple. Utilisez la propriété padding pour éloigner le contenu du bord. */
+ul {
+  background-color: #eeeeee;
+  border: 5px solid purple;
+  padding: 10px; /* Vous pouvez ajuster la valeur en fonction de vos préférences. */
+}
+
+/* Faites que les liens apparaissent en green lors d'un survol du curseur */
+a:hover {
+  color: green;
+}
   
